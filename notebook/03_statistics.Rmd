@@ -1,0 +1,128 @@
+---
+title: "Delivery_statistics"
+output: html_document
+date: "2026-05-21"
+---
+# Statistical Analysis
+
+```{r}
+# libraries
+library(dplyr)
+library(readr)
+library(corrplot)
+```
+
+```{r}
+data <- read_csv("delivery_clean.csv", col_names = TRUE)
+
+data
+```
+
+## Description statistics
+
+```{r}
+summary(data)
+```
+## Weekend vs Weekday Earnings
+
+- description (globally)
+```{r}
+
+data %>%
+  summarise(
+    avg_total = mean(total, na.rm = TRUE),
+    median_total = median(total, na.rm = TRUE),
+    sd_total = sd(total, na.rm = TRUE),
+    avg_tip = mean(tip, na.rm = TRUE),
+    avg_duration = mean(duration_minutes, na.rm = TRUE)
+  )
+```
+- weekend vs working weekdays
+```{r}
+data %>%
+  group_by(is_weekend) %>%
+  summarise(
+    avg_total = mean(total, na.rm = TRUE),
+    avg_duration = mean(duration_minutes, na.rm = TRUE),
+    avg_tip = mean(tip, na.rm = TRUE)
+  )
+```
+
+- t-test
+```{r}
+t.test(
+  total ~ is_weekend,
+  data = data
+)
+```
+- interpretation:
+
+Weekend deliveries generated significantly different earnings compared to weekdays (p < 0.05).
+
+## Weather vs Delivery Duration
+
+- correlation Duration vs Wind speed
+```{r}
+cor(data$duration_minutes,
+    data$wind,
+    use = "complete.obs")
+```
+Wind speed showed a statistically significant positive relationship with delivery duration.
+
+```{r}
+numeric_df <- data %>%
+  select(
+    total,
+    tip,
+    duration_minutes,
+    temp,
+    wind,
+    fall,
+    factor
+  )
+
+cor_matrix <- cor(
+  numeric_df,
+  use = "complete.obs"
+)
+
+corrplot(cor_matrix)
+```
+- regression
+```{r}
+model <- lm(
+  duration_minutes ~
+    wind +
+    temp +
+    fall +
+    factor +
+    is_weekend,
+  data = data
+)
+```
+
+```{r}
+summary(model)
+```
+Linear regression analysis indicated that temperature and rainfall were statistically significant predictors of delivery duration. Higher temperatures were associated with shorter delivery times, while rainfall unexpectedly showed a negative relationship with duration. Other variables, including wind speed, weekend status, and delivery multiplier, were not statistically significant predictors.
+
+Despite statistical significance, the model explained only a small portion of delivery duration variability (R² ≈ 0.04), suggesting that additional operational factors such as traffic conditions and route characteristics likely play a major role.
+
+## Time-of-Day Effects
+- ANOVA
+```{r}
+anova_model <- aov(
+  duration_minutes ~ factor(hour),
+  data = data
+)
+
+```
+
+```{r}
+summary(anova_model)
+```
+- conclusions:
+
+Despite visible variation across hours, ANOVA results indicated no statistically significant differences in average delivery duration.
+It appears to depend more on operational and environmental factors than on time-of-day alone.
+

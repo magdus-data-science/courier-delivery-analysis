@@ -1,0 +1,79 @@
+---
+title: "Delivery_cleaning"
+output: html_document
+date: "2026-03-01"
+---
+
+# Cleaning
+
+```{r}
+library(readr)
+
+data <- read_delim("delivery_raw.csv", delim = NULL, col_names = TRUE)
+data
+```
+
+Let's add some data...
+
+# Weekdays:
+
+```{r}
+library(lubridate)
+library(tidyverse)
+
+data <- data %>% 
+  mutate(weekday = wday(date, label = TRUE, abbr = FALSE, locale = "English"))
+
+data
+```
+
+```{r}
+data <- data %>%
+  mutate(hour = hour(time_start))
+```
+
+
+```{r}
+data <- data %>%
+  mutate(
+
+    # weekend
+    is_weekend =
+      wday(date) %in% c(1, 7),
+
+    # duration
+    duration_minutes =
+      as.numeric(
+        difftime(
+          time_end,
+          time_start,
+          units = "mins"
+        )
+      ),
+
+    # weather flag
+    bad_weather_flag =
+      fall > 0 |
+      wind > 20 |
+      temp < 0
+  )
+
+data <- data %>%
+  relocate(weekday, .before = time_start)
+
+data <- data %>%
+  relocate(duration_minutes, .before = temp)
+
+data <- data %>%
+  relocate(bad_weather_flag, .before = basic)
+
+data <- data %>%
+  relocate(hour, .before = time_start)
+
+data
+```
+
+# Saving data
+```{r}
+write.csv(data, file = "delivery_clean.csv", row.names = FALSE)
+```

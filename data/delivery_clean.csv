@@ -1,0 +1,452 @@
+"date","weekday","hour","time_start","time_end","duration_minutes","temp","fall","wind","bad_weather_flag","basic","factor","tip","total","type","target","tar_sym","is_weekend"
+2025-12-02,"Tuesday",9,09:04:00,09:46:00,42,1,0,1,FALSE,18.05,1.69,0,18.05,"breakfast","Stare Miasto","I",FALSE
+2025-12-02,"Tuesday",9,09:46:00,10:19:00,33,1,0,1.8,FALSE,12.19,1.69,0,12.19,"breakfast","Podgórze","XIII",FALSE
+2025-12-02,"Tuesday",10,10:20:00,11:04:00,44,1.5,0,0.9,FALSE,14.34,1.52,0,14.34,"coffee","Krowodrza","V",FALSE
+2025-12-02,"Tuesday",11,11:50:00,12:17:00,27,2,0,1.7,FALSE,11.55,1.67,2.25,13.8,"vietnamese","Prądnik Biały","IV",FALSE
+2025-12-02,"Tuesday",12,12:17:00,13:02:00,45,2.5,0,1.2,FALSE,17.53,1.97,0,17.53,"groceries","Bronowice","VI",FALSE
+2025-12-02,"Tuesday",13,13:02:00,13:43:00,41,2.5,0,1.5,FALSE,17.63,2.2,0,17.63,"liquors","Zwierzyniec","VII",FALSE
+2025-12-02,"Tuesday",17,17:06:00,17:52:00,46,2.5,0,0.6,FALSE,14.69,2.2,0,14.69,"pizza","Stare Miasto","I",FALSE
+2025-12-02,"Tuesday",17,17:52:00,18:22:00,30,2,0,0.8,FALSE,18.8,2.2,0,18.8,"fast food","Grzegórzki","II",FALSE
+2025-12-02,"Tuesday",18,18:43:00,19:39:00,56,1.6,0,0.9,FALSE,22.37,2.2,0,22.37,"burgers","Prądnik Czerwony","III",FALSE
+2025-12-02,"Tuesday",18,18:56:00,19:45:00,49,1.6,0,0.8,FALSE,11.91,2.2,3.98,15.89,"tea","Prądnik Czerwony","III",FALSE
+2025-12-04,"Thursday",9,09:01:00,09:31:00,30,0,0,1.2,FALSE,9.5,1.41,0,9.5,"groceries","Prądnik Czerwony","III",FALSE
+2025-12-04,"Thursday",9,09:31:00,09:51:00,20,1,0,0.7,FALSE,8.84,1.41,0,8.84,"groceries","Prądnik Czerwony","III",FALSE
+2025-12-04,"Thursday",9,09:51:00,10:09:00,18,1.8,0,0.8,FALSE,10.27,1.41,0,10.27,"fast food","Prądnik Czerwony","III",FALSE
+2025-12-04,"Thursday",10,10:55:00,11:18:00,23,2.9,0,1.3,FALSE,10.14,1.41,0,10.14,"flowers","Prądnik Czerwony","III",FALSE
+2025-12-04,"Thursday",11,11:27:00,11:57:00,30,4,0,1.4,FALSE,11.96,1.56,0,11.96,"italian","Prądnik Biały","IV",FALSE
+2025-12-04,"Thursday",11,11:57:00,12:18:00,21,4.8,0,0.3,FALSE,8.44,1.56,0,8.44,"groceries","Prądnik Czerwony","III",FALSE
+2025-12-04,"Thursday",12,12:19:00,13:01:00,42,4.9,0,0.4,FALSE,21.06,1.88,3.79,24.85,"kebab","Krowodrza","V",FALSE
+2025-12-04,"Thursday",13,13:07:00,13:56:00,49,5.2,0,0.9,FALSE,20.16,2.03,0,20.16,"pizza","Stare Miasto","I",FALSE
+2025-12-04,"Thursday",13,13:56:00,14:27:00,31,3.8,0,0.8,FALSE,19.13,2.03,0,19.13,"fast food","Krowodrza","V",FALSE
+2025-12-04,"Thursday",17,17:00:00,17:30:00,30,1.6,0,0.5,FALSE,17.21,2.14,0,17.21,"pizza","Stare Miasto","I",FALSE
+2025-12-04,"Thursday",17,17:30:00,18:06:00,36,1.3,0,0.3,FALSE,14.37,2.14,0,14.37,"deli","Krowodrza","V",FALSE
+2025-12-04,"Thursday",18,18:06:00,18:31:00,25,1.5,0,0.4,FALSE,14.03,2.18,0,14.03,"fast food","Zwierzyniec","VII",FALSE
+2025-12-04,"Thursday",18,18:32:00,19:11:00,39,1.6,0,1.2,FALSE,19.93,2.18,0,19.93,"groceries","Zwierzyniec","VII",FALSE
+2025-12-05,"Friday",12,12:01:00,12:34:00,33,6.2,0.06,1.9,TRUE,16.55,1.99,0,16.55,"fast food","Stare Miasto","I",FALSE
+2025-12-05,"Friday",12,12:35:00,13:09:00,34,6.3,0.06,1.6,TRUE,14.84,1.99,0,14.84,"groceries","Krowodrza","V",FALSE
+2025-12-05,"Friday",13,13:58:00,14:22:00,24,6.6,0.06,1,TRUE,16.43,2.2,0,16.43,"bakery","Krowodrza","V",FALSE
+2025-12-05,"Friday",14,14:22:00,14:48:00,26,6.7,0.06,0.3,TRUE,15.41,2.04,0,15.41,"japanese","Stare Miasto","I",FALSE
+2025-12-05,"Friday",14,14:48:00,15:13:00,25,6.5,0.06,1.4,TRUE,14.71,2.04,0,14.71,"fast food","Stare Miasto","I",FALSE
+2025-12-05,"Friday",15,15:13:00,15:39:00,26,6.5,0.06,0.8,TRUE,14.15,1.96,0,14.15,"ukrainian","Stare Miasto","I",FALSE
+2025-12-05,"Friday",15,15:40:00,16:08:00,28,6.4,0.06,1.1,TRUE,12.61,1.96,0,12.61,"burgers","Stare Miasto","I",FALSE
+2025-12-05,"Friday",18,18:01:00,18:28:00,27,5.9,0.08,0.4,TRUE,16.01,2.35,2.45,18.46,"japanese","Stare Miasto","I",FALSE
+2025-12-05,"Friday",18,18:28:00,19:03:00,35,5.6,0,0.3,FALSE,19.02,2.35,0,19.02,"fast food","Grzegórzki","II",FALSE
+2025-12-07,"Sunday",9,09:08:00,09:36:00,28,4.2,0,0.8,FALSE,12.17,1.53,0,12.17,"pharma","Stare Miasto","I",TRUE
+2025-12-07,"Sunday",9,09:48:00,10:05:00,17,4.8,0,0.5,FALSE,9.34,1.53,0,9.34,"fast food","Stare Miasto","I",TRUE
+2025-12-07,"Sunday",10,10:05:00,10:38:00,33,5.1,0,0.3,FALSE,13.65,1.48,0,13.65,"french","Prądnik Czerwony","III",TRUE
+2025-12-07,"Sunday",10,10:44:00,10:58:00,14,5.4,0,0.9,FALSE,9.59,1.48,0,9.59,"fast food","Prądnik Czerwony","III",TRUE
+2025-12-07,"Sunday",15,15:19:00,15:46:00,27,7.3,0.03,0.2,TRUE,18.77,2.2,0,18.77,"animal goods","Grzegórzki","II",TRUE
+2025-12-07,"Sunday",15,15:55:00,16:12:00,17,7.4,0.03,0.1,TRUE,11.72,2.2,0,11.72,"burgers","Grzegórzki","II",TRUE
+2025-12-07,"Sunday",16,16:13:00,16:44:00,31,7,0.03,0.4,TRUE,16.08,2.2,0,16.08,"fast food","Czyżyny","XIV",TRUE
+2025-12-07,"Sunday",16,16:51:00,17:17:00,26,6.6,0.03,0.4,TRUE,13.95,2.2,0,13.95,"fast food","Czyżyny","XIV",TRUE
+2025-12-07,"Sunday",17,17:23:00,17:42:00,19,6.4,0.03,0.1,TRUE,11.67,2.2,0,11.67,"groceries","Czyżyny","XIV",TRUE
+2025-12-07,"Sunday",18,18:04:00,18:34:00,30,6.2,0.03,0.5,TRUE,18.4,2.2,0,18.4,"fast food","Stare Miasto","I",TRUE
+2025-12-07,"Sunday",18,18:34:00,18:54:00,20,5.3,0.03,0.6,TRUE,9.65,2.2,0,9.65,"kebab","Stare Miasto","I",TRUE
+2025-12-07,"Sunday",18,18:54:00,19:19:00,25,5,0.03,0.6,TRUE,16,2.2,0,16,"pizza","Krowodrza","V",TRUE
+2025-12-08,"Monday",8,08:00:00,08:32:00,32,4.5,0,0.3,FALSE,13.96,1.53,0,13.96,"fast food","Stare Miasto","I",FALSE
+2025-12-08,"Monday",8,08:32:00,08:46:00,14,5.3,0,0.3,FALSE,9.11,1.53,2.87,11.98,"fast food","Stare Miasto","I",FALSE
+2025-12-08,"Monday",8,08:50:00,09:13:00,23,5.8,0,0.4,FALSE,9.21,1.53,1.17,10.38,"coffee","Stare Miasto","I",FALSE
+2025-12-08,"Monday",9,09:15:00,09:37:00,22,5.8,0,0.5,FALSE,10.16,1.69,0,10.16,"coffee","Grzegórzki","II",FALSE
+2025-12-08,"Monday",10,10:05:00,10:37:00,32,6.7,0,0.3,FALSE,14.84,1.67,0,14.84,"fast food","Prądnik Czerwony","III",FALSE
+2025-12-08,"Monday",10,10:55:00,11:12:00,17,7.7,0,0.9,FALSE,8.81,1.67,0,8.81,"kebab","Prądnik Biały","IV",FALSE
+2025-12-08,"Monday",15,15:12:00,15:39:00,27,9.2,0,0.5,FALSE,13.01,2,0,13.01,"fast food","Prądnik Biały","IV",FALSE
+2025-12-08,"Monday",15,15:39:00,16:17:00,38,9.4,0,0.9,FALSE,16.48,2,0,16.48,"fast food","Prądnik Biały","IV",FALSE
+2025-12-08,"Monday",16,16:18:00,16:41:00,23,9.3,0,2.5,FALSE,11.39,2.19,0,11.39,"liquors","Prądnik Biały","IV",FALSE
+2025-12-08,"Monday",16,16:47:00,17:19:00,32,8.5,0,1.3,FALSE,26.77,2.19,0,26.77,"fast food","Prądnik Czerwony","III",FALSE
+2025-12-08,"Monday",17,17:34:00,17:59:00,25,8,0,1,FALSE,11.31,2.2,0,11.31,"fast food","Grzegórzki","II",FALSE
+2025-12-08,"Monday",20,20:00:00,20:33:00,33,6.6,0,0.6,FALSE,18.66,2.2,0,18.66,"fast food","Prądnik Biały","IV",FALSE
+2025-12-08,"Monday",20,20:33:00,20:52:00,19,6.5,0,0.8,FALSE,11.79,2.13,2.1,13.89,"kebab","Prądnik Czerwony","III",FALSE
+2025-12-08,"Monday",20,20:53:00,21:16:00,23,6.3,0,0.9,FALSE,14.83,2.13,0,14.83,"groceries","Bronowice","VI",FALSE
+2025-12-10,"Wednesday",7,07:00:00,07:36:00,36,5.6,0,0.4,FALSE,12.74,2.13,0,12.74,"fast food","Krowodrza","V",FALSE
+2025-12-10,"Wednesday",7,07:36:00,07:56:00,20,6.2,0,0.6,FALSE,9.81,1.41,0,9.81,"fast food","Stare Miasto","I",FALSE
+2025-12-10,"Wednesday",7,07:56:00,08:15:00,19,6.2,0,0.7,FALSE,9.89,1.41,0,9.89,"coffee","Stare Miasto","I",FALSE
+2025-12-10,"Wednesday",8,08:15:00,08:43:00,28,7,0,0.6,FALSE,9.82,1.41,1.73,11.55,"coffee","Krowodrza","V",FALSE
+2025-12-10,"Wednesday",8,08:34:00,09:05:00,31,7.9,0,0.2,FALSE,14.74,1.53,0,14.74,"breakfast","Stare Miasto","I",FALSE
+2025-12-10,"Wednesday",9,09:05:00,09:26:00,21,8.6,0,0.6,FALSE,9.6,1.41,0,9.6,"breakfast","Dębniki","VIII",FALSE
+2025-12-10,"Wednesday",9,09:27:00,09:47:00,20,9.3,0,1,FALSE,11.06,1.41,0,11.06,"breakfast","Dębniki","VIII",FALSE
+2025-12-10,"Wednesday",9,09:47:00,10:13:00,26,9.7,0,1.3,FALSE,9.68,1.41,0,9.68,"breakfast","Stare Miasto","I",FALSE
+2025-12-10,"Wednesday",15,15:41:00,16:04:00,23,10.5,0,0.9,FALSE,11.38,1.95,0,11.38,"french","Dębniki","VIII",FALSE
+2025-12-10,"Wednesday",15,15:48:00,16:36:00,48,10.1,0,0.6,FALSE,17.98,1.95,0,17.98,"japanese","Stare Miasto","I",FALSE
+2025-12-10,"Wednesday",16,16:43:00,17:05:00,22,8.5,0,0.4,FALSE,14.09,1.98,0,14.09,"fast food","Prądnik Czerwony","III",FALSE
+2025-12-10,"Wednesday",17,17:05:00,17:23:00,18,8.2,0,0.2,FALSE,13.33,2.03,0,13.33,"fast food","Prądnik Czerwony","III",FALSE
+2025-12-10,"Wednesday",17,17:23:00,17:45:00,22,8,0,0.5,FALSE,13.36,2.03,0,13.36,"fast food","Czyżyny","XIV",FALSE
+2025-12-10,"Wednesday",17,17:49:00,18:06:00,17,7.3,0,0.5,FALSE,11.28,2.03,0,11.28,"kebab","Czyżyny","XIV",FALSE
+2025-12-11,"Thursday",8,08:01:00,08:35:00,34,6.7,0.06,0.5,TRUE,11.02,1.56,0,11.02,"fast food","Mistrzejowice","XV",FALSE
+2025-12-11,"Thursday",8,08:40:00,09:05:00,25,6.9,0.06,1.4,TRUE,11.72,1.56,0,11.72,"groceries","Mistrzejowice","XV",FALSE
+2025-12-11,"Thursday",9,09:06:00,09:32:00,26,7.1,0.06,1.7,TRUE,11.58,1.56,0,11.58,"groceries","Mistrzejowice","XV",FALSE
+2025-12-11,"Thursday",9,09:32:00,09:55:00,23,7.3,0.06,2.8,TRUE,9.18,1.56,0,9.18,"liquors","Mistrzejowice","XV",FALSE
+2025-12-11,"Thursday",9,09:55:00,10:18:00,23,7.5,0.06,1.9,TRUE,10.94,1.56,0,10.94,"groceries","Czyżyny","XIV",FALSE
+2025-12-11,"Thursday",10,10:19:00,10:40:00,21,7.5,0.06,1.9,TRUE,7.84,1.56,8,15.84,"pick-up","Czyżyny","XIV",FALSE
+2025-12-11,"Thursday",10,10:40:00,11:28:00,48,7.7,0.06,1.9,TRUE,17.13,1.56,0,17.13,"groceries","Prądnik Czerwony","III",FALSE
+2025-12-11,"Thursday",15,15:00:00,15:24:00,24,7.9,0.06,2,TRUE,11.09,2,0,11.09,"pizza","Grzegórzki","II",FALSE
+2025-12-11,"Thursday",15,15:24:00,15:52:00,28,7.8,0.06,2.7,TRUE,13.25,2,2.69,15.94,"fast food","Prądnik Czerwony","III",FALSE
+2025-12-11,"Thursday",15,15:52:00,16:31:00,39,7.6,0.06,2.2,TRUE,17.42,2,0,17.42,"kebab","Grzegórzki","II",FALSE
+2025-12-11,"Thursday",16,16:31:00,16:44:00,13,7.2,0.06,1.7,TRUE,9.89,2.02,0,9.89,"groceries","Czyżyny","XIV",FALSE
+2025-12-11,"Thursday",16,16:44:00,16:58:00,14,7.2,0.06,1.3,TRUE,9.36,2.02,0,9.36,"groceries","Czyżyny","XIV",FALSE
+2025-12-11,"Thursday",16,16:58:00,17:21:00,23,7.2,0.06,1,TRUE,11.15,2.02,0,11.15,"groceries","Grzegórzki","II",FALSE
+2025-12-11,"Thursday",16,16:58:00,17:31:00,33,7.2,0.06,1,TRUE,11.16,2.02,0,11.16,"groceries","Prądnik Czerwony","III",FALSE
+2025-12-11,"Thursday",17,17:31:00,17:57:00,26,6.9,0.06,0.2,TRUE,12.97,2.14,0,12.97,"fast food","Prądnik Czerwony","III",FALSE
+2025-12-12,"Friday",7,07:00:00,07:49:00,49,5.2,0,0.9,FALSE,13.09,1.41,0,13.09,"coffee","Stare Miasto","I",FALSE
+2025-12-12,"Friday",7,07:49:00,08:12:00,23,6.3,0,2.2,FALSE,9.76,1.41,0,9.76,"fast food","Stare Miasto","I",FALSE
+2025-12-12,"Friday",8,08:12:00,08:45:00,33,6.4,0,1.7,FALSE,15.27,1.43,0,15.27,"fast food","Prądnik Biały","IV",FALSE
+2025-12-12,"Friday",8,08:45:00,09:09:00,24,6.8,0,3.7,FALSE,11.98,1.43,0,11.98,"liquors","Stare Miasto","I",FALSE
+2025-12-12,"Friday",9,09:09:00,09:58:00,49,7.2,0,2.7,FALSE,12.37,1.42,0,12.37,"salads","Prądnik Biały","IV",FALSE
+2025-12-12,"Friday",16,16:00:00,16:43:00,43,5.1,0,1.6,FALSE,18.13,2,0,18.13,"pizza","Stare Miasto","I",FALSE
+2025-12-12,"Friday",16,16:56:00,17:36:00,40,5,0,2.1,FALSE,12.57,2,0,12.57,"fast food","Prądnik Czerwony","III",FALSE
+2025-12-12,"Friday",16,16:43:00,17:21:00,38,5,0,1.5,FALSE,12.58,2,0,12.58,"fast food","Grzegórzki","II",FALSE
+2025-12-12,"Friday",17,17:37:00,18:06:00,29,5.1,0,1.8,FALSE,18.85,2.18,0,18.85,"chinese","Krowodrza","V",FALSE
+2025-12-12,"Friday",18,18:06:00,18:30:00,24,4.7,0,1,FALSE,13.15,2.2,2.55,15.7,"japanese","Prądnik Biały","IV",FALSE
+2025-12-12,"Friday",18,18:30:00,18:58:00,28,4.4,0,1.4,FALSE,14.41,2.2,0,14.41,"kebab","Prądnik Czerwony","III",FALSE
+2025-12-13,"Saturday",8,08:12:00,08:50:00,38,1,0,0.4,FALSE,13.03,1.41,0,13.03,"fast food","Stare Miasto","I",TRUE
+2025-12-13,"Saturday",9,09:27:00,10:00:00,33,1.8,0,1.1,FALSE,7.54,1.48,0,7.54,"groceries","Stare Miasto","I",TRUE
+2025-12-13,"Saturday",10,10:06:00,10:30:00,24,2.2,0,1,FALSE,8.75,1.45,0,8.75,"liquors","Stare Miasto","I",TRUE
+2025-12-13,"Saturday",10,10:31:00,10:56:00,25,2.9,0,1.2,FALSE,10.94,1.45,0,10.94,"fast food","Stare Miasto","I",TRUE
+2025-12-14,"Sunday",9,09:43:00,10:39:00,56,4,0,2.1,FALSE,15.6,1.53,14.68,30.28,"animal goods","Prądnik Biały","IV",TRUE
+2025-12-14,"Sunday",10,10:47:00,11:22:00,35,4.7,0,1.3,FALSE,14.17,1.48,0,14.17,"vietnamese","Stare Miasto","I",TRUE
+2025-12-14,"Sunday",11,11:31:00,11:54:00,23,4.9,0,1.4,FALSE,10.47,2.84,0,10.47,"fast food","Stare Miasto","I",TRUE
+2025-12-14,"Sunday",11,11:54:00,12:30:00,36,4.8,0,1.7,FALSE,12.61,1.58,0,12.61,"fast food","Prądnik Czerwony","III",TRUE
+2025-12-14,"Sunday",15,15:17:00,16:00:00,43,4,0,0.6,FALSE,14.42,2.2,0,14.42,"pharma","Grzegórzki","II",TRUE
+2025-12-14,"Sunday",15,15:17:00,16:12:00,55,4,0,0.6,FALSE,14.43,2.2,0,14.43,"pharma","Grzegórzki","II",TRUE
+2025-12-14,"Sunday",16,16:50:00,17:04:00,14,3.2,0,0.5,FALSE,13.43,2.2,0,13.43,"fast food","Grzegórzki","II",TRUE
+2025-12-14,"Sunday",19,19:28:00,20:00:00,32,2.3,0,1.4,FALSE,16.33,2.2,0,16.33,"kebab","Prądnik Biały","IV",TRUE
+2026-02-11,"Wednesday",13,13:08:00,13:45:00,37,9.4,0,0.7,FALSE,18.49,2.61,0,18.49,"fast food","Krowodrza","V",FALSE
+2026-02-11,"Wednesday",14,14:11:00,14:41:00,30,9.4,0,0.6,FALSE,15.39,2.29,0,15.39,"fast food","Stare Miasto","I",FALSE
+2026-02-11,"Wednesday",14,14:46:00,15:18:00,32,9.2,0,0.7,FALSE,20.9,2.29,0,20.9,"japanese","Grzegórzki","II",FALSE
+2026-02-11,"Wednesday",15,15:18:00,15:49:00,31,8.2,0,1.1,FALSE,15.77,2.67,0,15.77,"deli","Stare Miasto","I",FALSE
+2026-02-11,"Wednesday",15,15:26:00,15:56:00,30,8,0,1.1,FALSE,16.2,2.67,0,16.2,"deli","Podgórze","XIII",FALSE
+2026-02-11,"Wednesday",15,15:56:00,16:12:00,16,7.6,0,0.9,FALSE,10.66,2.67,0,10.66,"polish","Stare Miasto","I",FALSE
+2026-02-11,"Wednesday",18,18:17:00,18:46:00,29,6.1,0,0.8,FALSE,17.55,2.69,0,17.55,"fast food","Prądnik Czerwony","III",FALSE
+2026-02-11,"Wednesday",19,19:11:00,19:35:00,24,5.6,0.03,0.9,TRUE,13.54,2.65,0.03,13.57,"fast food","Prądnik Czerwony","III",FALSE
+2026-02-11,"Wednesday",19,19:48:00,20:16:00,28,5.3,0.03,0.8,TRUE,14.87,2.65,0,14.87,"fast food","Prądnik Biały","IV",FALSE
+2026-02-12,"Thursday",7,07:10:00,07:44:00,34,6.7,0.21,1,TRUE,12.82,1.94,0,12.82,"groceries","Stare Miasto","I",FALSE
+2026-02-12,"Thursday",7,07:44:00,08:07:00,23,7.8,0.21,1.1,TRUE,9.6,1.94,0,9.6,"fast food","Stare Miasto","I",FALSE
+2026-02-12,"Thursday",8,08:16:00,08:51:00,35,9.6,0.21,1.3,TRUE,16.98,2,6.94,23.92,"bakery","Prądnik Biały","IV",FALSE
+2026-02-12,"Thursday",8,08:51:00,09:13:00,22,9.9,0.21,3.1,TRUE,11.85,2,0,11.85,"kebab","Prądnik Czerwony","III",FALSE
+2026-02-12,"Thursday",9,09:40:00,10:23:00,43,11.3,0.21,1.5,TRUE,10.35,1.83,0,10.35,"polish","Stare Miasto","I",FALSE
+2026-02-12,"Thursday",16,16:03:00,16:16:00,13,11.3,0.21,0.2,TRUE,8.62,2.56,0,8.62,"fast food","Stare Miasto","I",FALSE
+2026-02-12,"Thursday",16,16:40:00,16:51:00,11,10.9,0.21,0.6,TRUE,10.05,2.56,0,10.05,"pharma","Stare Miasto","I",FALSE
+2026-02-13,"Friday",7,07:58:00,08:22:00,24,8.3,0,0.3,FALSE,15.89,2.09,1.8,17.69,"coffee","Stare Miasto","I",FALSE
+2026-02-13,"Friday",8,08:53:00,09:09:00,16,8.7,0,0.5,FALSE,9.5,2.13,0,9.5,"fast food","Stare Miasto","I",FALSE
+2026-02-13,"Friday",9,09:09:00,09:36:00,27,8.7,0,0.3,FALSE,8.66,1.88,0,8.66,"groceries","Stare Miasto","I",FALSE
+2026-02-13,"Friday",9,09:39:00,10:19:00,40,9.2,0,1.1,FALSE,10.73,1.88,0,10.73,"kebab","Prądnik Biały","IV",FALSE
+2026-02-13,"Friday",10,10:20:00,11:19:00,59,9.8,0,1.7,FALSE,12.68,1.83,0,12.68,"groceries","Prądnik Biały","IV",FALSE
+2026-02-13,"Friday",11,11:24:00,11:44:00,20,10.1,0,1.2,FALSE,9.67,2.21,0,9.67,"groceries","Prądnik Czerwony","III",FALSE
+2026-02-13,"Friday",11,11:45:00,12:00:00,15,9.7,0,0.5,FALSE,12.74,2.21,0,12.74,"pharma","Prądnik Czerwony","III",FALSE
+2026-02-13,"Friday",12,12:17:00,12:39:00,22,10.5,0,0.8,FALSE,15.66,2.54,0,15.66,"fast food","Stare Miasto","I",FALSE
+2026-02-13,"Friday",12,12:48:00,13:03:00,15,11.3,0,0.7,FALSE,9.68,2.54,0,9.68,"polish","Prądnik Czerwony","III",FALSE
+2026-02-14,"Saturday",7,07:08:00,07:46:00,38,3.7,0.08,1.1,TRUE,18.82,1.94,0,18.82,"coffee","Dębniki","VIII",TRUE
+2026-02-14,"Saturday",7,07:46:00,08:12:00,26,4,0.08,1.2,TRUE,9.65,1.94,0,9.65,"fast food","Dębniki","VIII",TRUE
+2026-02-14,"Saturday",8,08:13:00,09:06:00,53,4.1,0.08,1.3,TRUE,22.59,2.59,0,22.59,"flowers","Prądnik Czerwony","III",TRUE
+2026-02-14,"Saturday",9,09:32:00,09:54:00,22,4.3,0.08,0.8,TRUE,10.6,2.29,0,10.6,"fast food","Prądnik Czerwony","III",TRUE
+2026-02-14,"Saturday",9,09:54:00,10:14:00,20,4.5,0.08,1.5,TRUE,12.5,2.29,0,12.5,"coffee","Czyżyny","XIV",TRUE
+2026-02-14,"Saturday",10,10:22:00,10:55:00,33,4.3,0.08,2.6,TRUE,11.95,1.98,0,11.95,"groceries","Prądnik Czerwony","III",TRUE
+2026-02-14,"Saturday",10,10:55:00,11:16:00,21,4.4,0.08,1.5,TRUE,11.32,1.98,12.9,24.22,"polish","Grzegórzki","II",TRUE
+2026-02-14,"Saturday",15,15:15:00,15:44:00,29,2.6,0.08,1.6,TRUE,15.23,2.73,0,15.23,"groceries","Stare Miasto","I",TRUE
+2026-02-14,"Saturday",15,15:45:00,16:11:00,26,2.4,0.11,0.7,TRUE,19.8,2.88,0,19.8,"groceries","Prądnik Czerwony","III",TRUE
+2026-02-14,"Saturday",16,16:20:00,16:46:00,26,1.6,0.12,1.5,TRUE,18.32,2.94,0,18.32,"burgers","Stare Miasto","I",TRUE
+2026-02-14,"Saturday",16,16:46:00,17:07:00,21,1.3,0.12,4,TRUE,14,2.94,0,14,"indian","Stare Miasto","I",TRUE
+2026-02-14,"Saturday",17,17:07:00,17:29:00,22,1.2,0.12,1.2,TRUE,16.94,2.8,2.78,19.72,"japanese","Zwierzyniec","VII",TRUE
+2026-02-14,"Saturday",17,17:29:00,17:55:00,26,1,0.12,0.9,TRUE,16.85,2.8,0,16.85,"burgers","Zwierzyniec","VII",TRUE
+2026-02-14,"Saturday",17,17:56:00,18:15:00,19,0.7,0.12,3.3,TRUE,16.83,2.8,0,16.83,"korean","Stare Miasto","I",TRUE
+2026-02-14,"Saturday",17,17:56:00,19:01:00,65,0.7,0.12,3.3,TRUE,16.83,2.8,0,16.83,"korean","Podgórze","XIII",TRUE
+2026-02-15,"Sunday",14,14:01:00,14:43:00,42,-3.4,0,1.7,TRUE,18.83,2.76,0,18.83,"pizza","Stare Miasto","I",TRUE
+2026-02-15,"Sunday",14,14:43:00,15:11:00,28,-3.7,0,1.8,TRUE,14.38,2.76,0,14.38,"french","Dębniki","VIII",TRUE
+2026-02-15,"Sunday",14,14:51:00,15:23:00,32,-3.9,0,2.2,TRUE,11.86,2.76,0,11.86,"pizza","Podgórze","XIII",TRUE
+2026-02-16,"Monday",10,10:04:00,10:42:00,38,-5.4,0,3.1,TRUE,11.25,1.73,0,11.25,"fast food","Stare Miasto","I",FALSE
+2026-02-16,"Monday",10,10:42:00,11:06:00,24,-4.9,0,1.9,TRUE,10.87,1.73,0,10.87,"coffee","Stare Miasto","I",FALSE
+2026-02-16,"Monday",11,11:06:00,11:27:00,21,-4.9,0,1.1,TRUE,7.75,1.91,0,7.75,"liquors","Grzegórzki","II",FALSE
+2026-02-16,"Monday",11,11:06:00,11:45:00,39,-4.9,0,1.1,TRUE,7.76,1.91,0,7.76,"liquors","Grzegórzki","II",FALSE
+2026-02-16,"Monday",11,11:45:00,12:13:00,28,-4.6,0,3,TRUE,11.45,1.91,0,11.45,"fast food","Stare Miasto","I",FALSE
+2026-02-16,"Monday",15,15:10:00,15:47:00,37,-4.2,0,3.2,TRUE,17.49,2.61,0,17.49,"groceries","Prądnik Biały","IV",FALSE
+2026-02-16,"Monday",16,16:12:00,17:03:00,51,-4.5,0,1.3,TRUE,19.49,2.41,0,19.49,"pharma","Prądnik Biały","IV",FALSE
+2026-02-16,"Monday",17,17:03:00,17:37:00,34,-4.6,0,3.1,TRUE,9.75,2.72,0,9.75,"fast food","Prądnik Biały","IV",FALSE
+2026-02-16,"Monday",17,17:03:00,17:47:00,44,-4.6,0,3.1,TRUE,9.75,2.72,0,9.75,"fast food","Bronowice","VI",FALSE
+2026-02-16,"Monday",17,17:47:00,18:01:00,14,-4.3,0,1.3,TRUE,11.45,2.72,0,11.45,"kebab","Krowodrza","V",FALSE
+2026-02-17,"Tuesday",8,08:00:00,08:20:00,20,-0.4,0,0.2,TRUE,10.64,1.73,0,10.64,"fast food","Prądnik Biały","IV",FALSE
+2026-02-17,"Tuesday",8,08:20:00,08:59:00,39,-0.4,0,0.6,TRUE,12.95,1.73,0,12.95,"groceries","Prądnik Biały","IV",FALSE
+2026-02-17,"Tuesday",8,08:59:00,09:21:00,22,0.7,0,0.7,FALSE,8.89,1.73,0,8.89,"fast food","Stare Miasto","I",FALSE
+2026-02-17,"Tuesday",9,09:21:00,09:41:00,20,0.8,0,0.6,FALSE,8.17,1.73,4.43,12.6,"breakfast","Stare Miasto","I",FALSE
+2026-02-17,"Tuesday",9,09:41:00,10:34:00,53,1,0,0.4,FALSE,17.35,1.73,5.06,22.41,"coffee","Grzegórzki","II",FALSE
+2026-02-17,"Tuesday",10,10:34:00,11:16:00,42,1.6,0,1,FALSE,12.04,1.73,0,12.04,"groceries","Prądnik Biały","IV",FALSE
+2026-02-17,"Tuesday",11,11:17:00,11:38:00,21,2.1,0,0.6,FALSE,8.87,1.96,0,8.87,"fast food","Prądnik Czerwony","III",FALSE
+2026-02-17,"Tuesday",11,11:47:00,12:05:00,18,2.2,0,0.7,FALSE,7.75,1.96,0,7.75,"fast food","Prądnik Czerwony","III",FALSE
+2026-02-17,"Tuesday",16,16:01:00,16:37:00,36,2,0,2,FALSE,19.33,2.61,0,19.33,"burgers","Stare Miasto","I",FALSE
+2026-02-17,"Tuesday",16,16:47:00,17:17:00,30,1.5,0,0.5,FALSE,14.15,2.61,0,14.15,"chinese","Dębniki","VIII",FALSE
+2026-02-17,"Tuesday",17,17:32:00,18:04:00,32,1.1,0,0.6,FALSE,10.79,2.46,0,10.79,"groceries","Dębniki","VIII",FALSE
+2026-02-17,"Tuesday",17,17:17:00,17:50:00,33,1.2,0,0.4,FALSE,10.79,2.46,0,10.79,"groceries","Dębniki","VIII",FALSE
+2026-02-18,"Wednesday",7,07:00:00,07:37:00,37,1.3,0,1,FALSE,19.86,1.83,0,19.86,"coffee","Prądnik Czerwony","III",FALSE
+2026-02-18,"Wednesday",7,07:43:00,08:27:00,44,1.5,0,1.6,FALSE,17.76,1.83,0,17.76,"groceries","Stare Miasto","I",FALSE
+2026-02-18,"Wednesday",8,08:27:00,09:05:00,38,1.6,0,1.9,FALSE,14.58,1.73,0,14.58,"fast food","Krowodrza","V",FALSE
+2026-02-18,"Wednesday",9,09:09:00,09:42:00,33,1.1,0,1.5,FALSE,14.69,1.73,0,14.69,"groceries","Stare Miasto","I",FALSE
+2026-02-18,"Wednesday",9,09:42:00,10:04:00,22,1.8,0,2.7,FALSE,7.55,1.73,2.98,10.53,"bakery","Stare Miasto","I",FALSE
+2026-02-18,"Wednesday",10,10:10:00,10:32:00,22,2.2,0,2.5,FALSE,7.4,1.88,0,7.4,"fast food","Stare Miasto","I",FALSE
+2026-02-18,"Wednesday",10,10:33:00,11:03:00,30,2.7,0,2,FALSE,8.54,1.73,12.65,21.19,"breakfast","Podgórze","XIII",FALSE
+2026-02-18,"Wednesday",11,11:03:00,11:37:00,34,2.8,0,0.9,FALSE,16.78,2.04,0,16.78,"ukrainian","Krowodrza","V",FALSE
+2026-02-18,"Wednesday",11,11:40:00,12:22:00,42,2.7,0.01,3.2,TRUE,17.2,2.04,0,17.2,"fast food","Krowodrza","V",FALSE
+2026-02-18,"Wednesday",15,15:05:00,15:26:00,21,1.6,0.01,2,TRUE,15.48,2.52,0,15.48,"fast food","Prądnik Czerwony","III",FALSE
+2026-02-18,"Wednesday",15,15:28:00,15:46:00,18,1.4,0.01,1.7,TRUE,14.67,2.52,0,14.67,"fast food","Prądnik Czerwony","III",FALSE
+2026-02-18,"Wednesday",15,15:46:00,15:56:00,10,1.4,0.01,1.1,TRUE,9.97,2.52,0,9.97,"polish","Prądnik Czerwony","III",FALSE
+2026-02-19,"Thursday",7,07:13:00,07:53:00,40,-1.3,0,1.6,TRUE,16.36,1.83,0,16.36,"coffee","Stare Miasto","I",FALSE
+2026-02-19,"Thursday",7,07:53:00,08:38:00,45,-1.1,0,1.6,TRUE,19.64,1.83,4.2,23.84,"breakfast","Podgórze","XIII",FALSE
+2026-02-19,"Thursday",8,08:38:00,09:04:00,26,-1,0,2.1,TRUE,12.12,1.89,2.36,14.48,"coffee","Stare Miasto","I",FALSE
+2026-02-19,"Thursday",9,09:04:00,09:40:00,36,-0.7,0,3.1,TRUE,14.4,1.73,0,14.4,"groceries","Stare Miasto","I",FALSE
+2026-02-19,"Thursday",9,09:41:00,10:02:00,21,-0.2,0,1.8,TRUE,11.96,1.73,0,11.96,"fast food","Grzegórzki","II",FALSE
+2026-02-19,"Thursday",10,10:02:00,10:32:00,30,-0.2,0,1.1,TRUE,11.67,1.73,0,11.67,"fast food","Stare Miasto","I",FALSE
+2026-02-19,"Thursday",10,10:36:00,11:06:00,30,-0.3,0,2.2,TRUE,13.15,1.73,0,13.15,"fast food","Bronowice","VI",FALSE
+2026-02-19,"Thursday",12,12:03:00,12:21:00,18,0.1,0,2.6,FALSE,13.73,2.2,0,13.73,"fast food","Stare Miasto","I",FALSE
+2026-02-19,"Thursday",12,12:45:00,13:10:00,25,0,0,1.7,FALSE,12.22,2.2,0,12.22,"salads","Krowodrza","V",FALSE
+2026-02-19,"Thursday",13,13:16:00,13:35:00,19,0,0,2.7,FALSE,9.86,2.23,0,9.86,"pizza","Krowodrza","V",FALSE
+2026-02-19,"Thursday",13,13:35:00,13:50:00,15,-0.2,0,2.8,TRUE,8.14,2.23,0,8.14,"pizza","Krowodrza","V",FALSE
+2026-02-19,"Thursday",13,13:50:00,14:50:00,60,-0.1,0,2.9,TRUE,14.41,2.23,0,14.41,"groceries","Prądnik Biały","IV",FALSE
+2026-02-19,"Thursday",16,16:05:00,16:20:00,15,-0.5,0,2.7,TRUE,9.83,2.41,0,9.83,"fast food","Prądnik Biały","IV",FALSE
+2026-02-19,"Thursday",16,16:20:00,16:36:00,16,-0.6,0,2.2,TRUE,11.7,2.41,0,11.7,"kebab","Prądnik Biały","IV",FALSE
+2026-02-19,"Thursday",16,16:40:00,17:10:00,30,-0.5,0,1.2,TRUE,14.9,2.41,0,14.9,"groceries","Prądnik Biały","IV",FALSE
+2026-02-23,"Monday",9,09:02:00,09:25:00,23,8.4,0.29,3.3,TRUE,8.23,1.88,0,8.23,"bakery","Prądnik Czerwony","III",FALSE
+2026-02-23,"Monday",9,09:31:00,10:06:00,35,9,0.29,2.3,TRUE,17.15,1.88,0,17.15,"coffee","Prądnik Biały","IV",FALSE
+2026-02-23,"Monday",10,10:11:00,10:31:00,20,9.3,0.29,3.7,TRUE,11.51,1.7,0,11.51,"groceries","Prądnik Biały","IV",FALSE
+2026-02-23,"Monday",10,10:35:00,10:55:00,20,9.6,0.29,2.9,TRUE,9.65,1.7,0,9.65,"fast food","Prądnik Biały","IV",FALSE
+2026-02-23,"Monday",10,10:55:00,11:12:00,17,10,0.29,4.1,TRUE,7.73,1.7,4.7,12.43,"kebab","Stare Miasto","I",FALSE
+2026-02-23,"Monday",11,11:13:00,11:40:00,27,10,0.29,3.4,TRUE,14.3,1.88,0,14.3,"turkish","Grzegórzki","II",FALSE
+2026-02-23,"Monday",11,11:40:00,12:23:00,43,10.3,0.29,3.6,TRUE,21.25,1.88,0,21.25,"burgers","Podgórze","XIII",FALSE
+2026-02-23,"Monday",12,12:23:00,12:43:00,20,10.4,0.29,2.1,TRUE,11.63,2.13,3.59,15.22,"fast food","Podgórze","XIII",FALSE
+2026-02-23,"Monday",12,12:43:00,13:24:00,41,11.1,0.29,4.5,TRUE,12.53,2.13,0,12.53,"groceries","Prądnik Biały","IV",FALSE
+2026-02-23,"Monday",15,15:03:00,15:25:00,22,8.4,1.08,2.5,TRUE,16.72,2.58,0,16.72,"pharma","Prądnik Czerwony","III",FALSE
+2026-02-23,"Monday",15,15:27:00,15:48:00,21,8.2,1.79,1.6,TRUE,15.24,2.58,0,15.24,"groceries","Prądnik Czerwony","III",FALSE
+2026-02-23,"Monday",15,15:48:00,16:04:00,16,8,1.79,1.5,TRUE,12.87,2.58,0,12.87,"fast food","Prądnik Biały","IV",FALSE
+2026-02-23,"Monday",16,16:04:00,16:27:00,23,7.8,1.79,1.7,TRUE,16.41,2.38,0,16.41,"groceries","Prądnik Biały","IV",FALSE
+2026-02-23,"Monday",16,16:27:00,16:41:00,14,7.6,1.79,0.8,TRUE,10.18,2.53,0,10.18,"fast food","Bronowice","VI",FALSE
+2026-02-23,"Monday",16,16:41:00,17:03:00,22,7.5,1.79,1.5,TRUE,11.87,2.53,0,11.87,"fast food","Bronowice","VI",FALSE
+2026-02-24,"Tuesday",7,07:33:00,08:01:00,28,7.7,0.29,2.7,TRUE,15.94,1.95,4.13,20.07,"bakery","Zwierzyniec","VII",FALSE
+2026-02-24,"Tuesday",8,08:05:00,08:49:00,44,7.6,0.29,1.4,TRUE,18.06,1.85,2.36,20.42,"coffee","Stare Miasto","I",FALSE
+2026-02-24,"Tuesday",8,08:49:00,09:31:00,42,8.2,0.29,2.9,TRUE,14.44,1.7,0,14.44,"pharma","Grzegórzki","II",FALSE
+2026-02-24,"Tuesday",9,09:48:00,10:13:00,25,9.1,0.29,2.8,TRUE,10.44,1.7,0,10.44,"fast food","Stare Miasto","I",FALSE
+2026-02-24,"Tuesday",10,10:21:00,10:44:00,23,9.3,0.29,2.5,TRUE,11.06,1.7,0,11.06,"deli","Podgórze","XIII",FALSE
+2026-02-24,"Tuesday",10,10:47:00,11:15:00,28,9.7,0.29,3.4,TRUE,9.89,1.7,0,9.89,"portugese","Stare Miasto","I",FALSE
+2026-02-24,"Tuesday",11,11:22:00,11:41:00,19,10,0.29,4.9,TRUE,10.32,2.08,1.95,12.27,"portugese","Podgórze","XIII",FALSE
+2026-02-24,"Tuesday",11,11:42:00,12:28:00,46,10.3,0.29,4.7,TRUE,21.06,2.08,0,21.06,"groceries","Grzegórzki","II",FALSE
+2026-02-24,"Tuesday",15,15:02:00,15:37:00,35,8.5,0.93,2.5,TRUE,22.6,2.49,0,22.6,"kebab","Grzegórzki","II",FALSE
+2026-02-24,"Tuesday",15,15:38:00,15:59:00,21,8,1.79,1.1,TRUE,13.12,2.64,0,13.12,"groceries","Czyżyny","XIV",FALSE
+2026-02-24,"Tuesday",16,16:04:00,16:28:00,24,7.8,1.79,1.7,TRUE,16.04,2.58,0,16.04,"polish","Czyżyny","XIV",FALSE
+2026-02-24,"Tuesday",16,16:28:00,16:49:00,21,7.6,1.79,0.7,TRUE,13.85,2.58,0,13.85,"polish","Czyżyny","XIV",FALSE
+2026-02-24,"Tuesday",16,16:49:00,17:20:00,31,7.4,1.79,0.8,TRUE,14.99,2.58,0,14.99,"polish","Czyżyny","XIV",FALSE
+2026-02-25,"Wednesday",8,08:28:00,09:05:00,37,4.7,0,2.7,FALSE,13.87,1.7,0,13.87,"fast food","Stare Miasto","I",FALSE
+2026-02-25,"Wednesday",9,09:14:00,09:41:00,27,4.7,0,4,FALSE,10.89,1.7,0,10.89,"polish","Prądnik Biały","IV",FALSE
+2026-02-25,"Wednesday",9,09:41:00,10:25:00,44,5.1,0,2.4,FALSE,7.4,1.7,0,7.4,"groceries","Prądnik Biały","IV",FALSE
+2026-02-25,"Wednesday",10,10:29:00,10:53:00,24,5.5,0,3,FALSE,11.61,1.7,0,11.61,"groceries","Prądnik Biały","IV",FALSE
+2026-02-25,"Wednesday",10,10:57:00,11:23:00,26,5.2,0,3.6,FALSE,11.02,1.7,0,11.02,"coffee","Stare Miasto","I",FALSE
+2026-02-25,"Wednesday",11,11:23:00,12:02:00,39,5.3,0,2.2,FALSE,11.68,1.86,0,11.68,"pizza","Stare Miasto","I",FALSE
+2026-02-25,"Wednesday",13,13:07:00,13:28:00,21,4.9,0,2.1,FALSE,11.31,2.43,0,11.31,"fast food","Stare Miasto","I",FALSE
+2026-02-25,"Wednesday",13,13:28:00,13:54:00,26,3.6,0,1.8,FALSE,14.98,2.58,0,14.98,"polish","Stare Miasto","I",FALSE
+2026-02-25,"Wednesday",13,13:57:00,14:29:00,32,3.4,0,1.7,FALSE,15.83,2.58,0,15.83,"turkish","Stare Miasto","I",FALSE
+2026-02-25,"Wednesday",14,14:35:00,14:56:00,21,3.2,0,1.7,FALSE,12.43,2.28,0,12.43,"pizza","Stare Miasto","I",FALSE
+2026-02-25,"Wednesday",14,14:57:00,15:39:00,42,3.5,0,1.6,FALSE,18.41,2.28,0,18.41,"kebab","Prądnik Biały","IV",FALSE
+2026-02-25,"Wednesday",16,16:21:00,16:48:00,27,2.8,0,1,FALSE,16.66,2.5,0,16.66,"fast food","Grzegórzki","II",FALSE
+2026-02-27,"Friday",8,08:25:00,08:54:00,29,5.4,0,0.6,FALSE,13.13,1.98,0,13.13,"coffee","Podgórze","XIII",FALSE
+2026-02-27,"Friday",9,09:45:00,10:30:00,45,10.4,0,0.8,FALSE,13.28,1.75,0,13.28,"groceries","Dębniki","VIII",FALSE
+2026-02-28,"Saturday",15,15:22:00,15:49:00,27,16.9,0,1.1,FALSE,16.82,2.54,5.65,22.47,"japanese","Dębniki","VIII",TRUE
+2026-02-28,"Saturday",15,15:49:00,16:06:00,17,16.3,0,0.7,FALSE,13.51,2.54,0,13.51,"fast food","Dębniki","VIII",TRUE
+2026-02-28,"Saturday",16,16:55:00,17:17:00,22,13.8,0,1.1,FALSE,15.6,2.6,0,15.6,"burgers","Stare Miasto","I",TRUE
+2026-02-28,"Saturday",17,17:17:00,17:42:00,25,13.2,0,1.2,FALSE,13.83,2.47,0,13.83,"fast food","Podgórze","XIII",TRUE
+2026-02-28,"Saturday",17,17:42:00,18:03:00,21,12.6,0,0.2,FALSE,10.47,2.47,0,10.47,"japanese","Stare Miasto","I",TRUE
+2026-02-28,"Saturday",18,18:03:00,18:17:00,14,10.6,0,1.2,FALSE,8.73,2.35,0,8.73,"ukrainian","Podgórze","XIII",TRUE
+2026-02-28,"Saturday",18,18:17:00,18:34:00,17,9.8,0,0.4,FALSE,11.42,2.35,0,11.42,"chinese","Stare Miasto","I",TRUE
+2026-02-28,"Saturday",18,18:38:00,19:09:00,31,9.4,0,0.2,FALSE,17.66,2.35,0,17.66,"groceries","Grzegórzki","II",TRUE
+2026-02-28,"Saturday",20,20:08:00,20:36:00,28,6.8,0,0.3,FALSE,13.42,2.27,0,13.42,"polish","Prądnik Czerwony","III",TRUE
+2026-02-28,"Saturday",20,20:39:00,20:57:00,18,6,0,0.6,FALSE,12.69,2.27,0,12.69,"groceries","Prądnik Biały","IV",TRUE
+2026-03-02,"Monday",8,08:11:00,08:33:00,22,7.6,0.85,0.7,TRUE,11.07,2.12,0,11.07,"fast food","Stare Miasto","I",FALSE
+2026-03-02,"Monday",8,08:34:00,09:10:00,36,8.3,0.85,0.9,TRUE,14.5,2.12,0,14.5,"groceries","Grzegórzki","II",FALSE
+2026-03-02,"Monday",9,09:33:00,09:50:00,17,9.9,0.85,0.4,TRUE,11.01,1.83,0,11.01,"fast food","Stare Miasto","I",FALSE
+2026-03-02,"Monday",10,10:01:00,10:16:00,15,9.5,0.85,1.5,TRUE,7.4,1.65,0,7.4,"fast food","Grzegórzki","II",FALSE
+2026-03-02,"Monday",10,10:19:00,10:34:00,15,10.4,0.85,1.7,TRUE,9.34,1.65,0,9.34,"fast food","Grzegórzki","II",FALSE
+2026-03-02,"Monday",10,10:40:00,11:11:00,31,1.4,0.85,0.3,TRUE,9.96,1.65,0,9.96,"fast food","Grzegórzki","II",FALSE
+2026-03-02,"Monday",11,11:14:00,11:35:00,21,10.1,0.85,0.9,TRUE,14.57,1.83,0,14.57,"turkish","Podgórze","XIII",FALSE
+2026-03-02,"Monday",11,11:41:00,11:58:00,17,11.3,0.85,1.6,TRUE,9.02,1.83,0,9.02,"groceries","Prądnik Czerwony","III",FALSE
+2026-03-02,"Monday",15,15:01:00,15:13:00,12,11.2,0.85,2.6,TRUE,9.22,2.53,0,9.22,"fast food","Stare Miasto","I",FALSE
+2026-03-02,"Monday",15,15:14:00,15:39:00,25,11.3,0.85,0.9,TRUE,15.86,2.53,0,15.86,"fast food","Czyżyny","XIV",FALSE
+2026-03-02,"Monday",15,15:42:00,16:22:00,40,10.9,0.85,1,TRUE,26.32,2.53,0,26.32,"french","Czyżyny","XIV",FALSE
+2026-03-02,"Monday",16,16:26:00,17:04:00,38,10.2,0.85,1.8,TRUE,20.26,2.33,0,20.26,"fast food","Wzgórza Krzesławickie","XVII",FALSE
+2026-03-02,"Monday",17,17:23:00,17:52:00,29,9.3,0.85,0.3,TRUE,19.16,2.49,3,22.16,"deli","Bieńczyce","XVI",FALSE
+2026-03-02,"Monday",17,17:52:00,18:17:00,25,8.7,0.85,0.5,TRUE,13.66,2.49,0,13.66,"polish","Bieńczyce","XVI",FALSE
+2026-03-03,"Tuesday",7,07:12:00,07:35:00,23,2,0,0.8,FALSE,10.71,1.75,7.53,18.24,"pharma","Stare Miasto","I",FALSE
+2026-03-03,"Tuesday",7,07:18:00,07:48:00,30,2,0,0.9,FALSE,10.72,1.75,0,10.72,"pharma","Stare Miasto","I",FALSE
+2026-03-03,"Tuesday",7,07:48:00,08:40:00,52,2.4,0,0.4,FALSE,14.95,1.75,0,14.95,"pharma","Łagiewniki - Borek Fałęcki","IX",FALSE
+2026-03-03,"Tuesday",8,08:48:00,09:21:00,33,7.8,0,0.6,FALSE,10.2,1.65,1.64,11.84,"pharma","Podgórze Duchackie","XI",FALSE
+2026-03-03,"Tuesday",8,08:42:00,09:50:00,68,7.1,0,1,FALSE,10.2,1.65,0,10.2,"pharma","Podgórze","XIII",FALSE
+2026-03-03,"Tuesday",9,09:50:00,10:28:00,38,10.9,0,0.5,FALSE,10.04,1.65,0,10.04,"fast food","Podgórze","XIII",FALSE
+2026-03-03,"Tuesday",10,10:41:00,11:15:00,34,12.7,0,0.7,FALSE,9.32,1.65,2.5,11.82,"italian","Podgórze","XIII",FALSE
+2026-03-03,"Tuesday",12,12:03:00,12:43:00,40,13.5,0,0.4,FALSE,14.97,2,0,14.97,"chinese","Prądnik Biały","IV",FALSE
+2026-03-03,"Tuesday",12,12:43:00,13:07:00,24,14.1,0,1,FALSE,11.36,2,0,11.36,"kebab","Prądnik Biały","IV",FALSE
+2026-03-03,"Tuesday",13,13:14:00,13:35:00,21,13.5,0,1.8,FALSE,15.03,2.38,0,15.03,"kebab","Prądnik Biały","IV",FALSE
+2026-03-03,"Tuesday",13,13:45:00,14:10:00,25,14.1,0,0.7,FALSE,13.08,2.38,0,13.08,"kebab","Prądnik Czerwony","III",FALSE
+2026-03-04,"Wednesday",8,08:05:00,08:39:00,34,7.7,0,0.5,FALSE,14.8,1.65,0,14.8,"pharma","Grzegórzki","II",FALSE
+2026-03-04,"Wednesday",8,08:40:00,09:08:00,28,9.7,0,1.4,FALSE,10.15,1.65,2.3,12.45,"breakfast","Stare Miasto","I",FALSE
+2026-03-04,"Wednesday",8,08:50:00,09:21:00,31,10.5,0,1.6,FALSE,7.55,1.65,0,7.55,"coffee","Grzegórzki","II",FALSE
+2026-03-04,"Wednesday",9,09:28:00,09:51:00,23,12.1,0,3,FALSE,10.56,1.65,0,10.56,"fast food","Krowodrza","V",FALSE
+2026-03-04,"Wednesday",9,09:58:00,10:25:00,27,12.6,0,3.6,FALSE,12.65,1.65,0,12.65,"bakery","Prądnik Biały","IV",FALSE
+2026-03-04,"Wednesday",10,10:55:00,11:28:00,33,13.7,0,2.6,FALSE,11.3,1.65,2.09,13.39,"pizza","Krowodrza","V",FALSE
+2026-03-04,"Wednesday",11,11:30:00,12:09:00,39,13.6,0,4.5,FALSE,15.5,1.81,4.73,20.23,"coffee","Prądnik Czerwony","III",FALSE
+2026-03-04,"Wednesday",14,14:00:00,14:35:00,35,14.8,0,2.5,FALSE,14.93,2.08,0,14.93,"kebab","Stare Miasto","I",FALSE
+2026-03-04,"Wednesday",14,14:36:00,14:52:00,16,14.2,0,1.5,FALSE,10.3,2.08,0,10.3,"indian","Prądnik Biały","IV",FALSE
+2026-03-04,"Wednesday",14,14:57:00,15:25:00,28,14.2,0,2.2,FALSE,12.31,2.08,0,12.31,"indian","Krowodrza","V",FALSE
+2026-03-04,"Wednesday",15,15:25:00,15:55:00,30,13.9,0,2,FALSE,13.88,2.44,0,13.88,"pizza","Zwierzyniec","VII",FALSE
+2026-03-04,"Wednesday",15,15:55:00,16:31:00,36,13.4,0,0.9,FALSE,21.2,2.44,2.4,23.6,"mexican","Prądnik Biały","IV",FALSE
+2026-03-05,"Thursday",8,08:05:00,08:31:00,26,4.8,0,0.5,FALSE,10.48,1.81,0,10.48,"liquors","Grzegórzki","II",FALSE
+2026-03-05,"Thursday",8,08:31:00,09:02:00,31,6.1,0,2.4,FALSE,10.51,1.81,0,10.51,"groceries","Czyżyny","XIV",FALSE
+2026-03-05,"Thursday",9,09:12:00,09:32:00,20,7.2,0,2.9,FALSE,8.16,1.65,0,8.16,"fast food","Czyżyny","XIV",FALSE
+2026-03-05,"Thursday",9,09:32:00,09:53:00,21,7.7,0,4.2,FALSE,9.94,1.65,0,9.94,"groceries","Grzegórzki","II",FALSE
+2026-03-05,"Thursday",10,10:00:00,10:22:00,22,8.7,0,3.4,FALSE,10.76,1.65,0,10.76,"pharma","Stare Miasto","I",FALSE
+2026-03-05,"Thursday",10,10:22:00,10:59:00,37,9.2,0,2.6,FALSE,10.83,1.65,0,10.83,"fast food","Stare Miasto","I",FALSE
+2026-03-05,"Thursday",11,11:00:00,11:28:00,28,9.9,0,0.9,FALSE,12.33,1.77,0,12.33,"fast food","Zwierzyniec","VII",FALSE
+2026-03-05,"Thursday",11,11:29:00,12:00:00,31,10.6,0,1.3,FALSE,9.66,1.77,0,9.66,"coffee","Dębniki","VIII",FALSE
+2026-03-05,"Thursday",12,12:00:00,12:21:00,21,11.3,0,0.9,FALSE,10.95,2.12,0,10.95,"polish","Grzegórzki","II",FALSE
+2026-03-05,"Thursday",12,12:40:00,13:01:00,21,11.2,0,1.6,FALSE,8.68,2.12,0,8.68,"fast food","Podgórze","XIII",FALSE
+2026-03-05,"Thursday",15,15:00:00,15:16:00,16,12.6,0,1.6,FALSE,10.59,2.63,0,10.59,"fast food","Prądnik Biały","IV",FALSE
+2026-03-05,"Thursday",15,15:16:00,15:43:00,27,12.2,0,1.3,FALSE,16.95,2.63,0,16.95,"liquors","Prądnik Czerwony","III",FALSE
+2026-03-05,"Thursday",15,15:59:00,16:25:00,26,11.8,0,1.4,FALSE,12.82,2.63,0,12.82,"kebab","Krowodrza","V",FALSE
+2026-03-05,"Thursday",16,16:26:00,17:08:00,42,10.9,0,2.3,FALSE,18.06,2.33,0,18.06,"groceries","Zwierzyniec","VII",FALSE
+2026-03-06,"Friday",7,07:19:00,07:44:00,25,3.5,0,1.3,FALSE,10.89,1.75,0,10.89,"groceries","Czyżyny","XIV",FALSE
+2026-03-06,"Friday",7,07:45:00,08:14:00,29,5.1,0,1.5,FALSE,13.65,1.75,0,13.65,"fast food","Bieńczyce","XVI",FALSE
+2026-03-06,"Friday",8,08:15:00,08:27:00,12,7.2,0,1,FALSE,7.4,1.93,0,7.4,"liquors","Mistrzejowice","XV",FALSE
+2026-03-06,"Friday",8,08:58:00,09:21:00,23,8.8,0,2.7,FALSE,9.12,1.93,0,9.12,"fast food","Prądnik Czerwony","III",FALSE
+2026-03-06,"Friday",9,09:21:00,10:00:00,39,9.6,0,1.9,FALSE,14.68,1.7,2.75,17.43,"groceries","Czyżyny","XIV",FALSE
+2026-03-06,"Friday",10,10:03:00,10:35:00,32,10.3,0,2.9,FALSE,7.46,1.65,0,7.46,"kebab","Czyżyny","XIV",FALSE
+2026-03-06,"Friday",10,10:35:00,11:06:00,31,11.7,0,1.4,FALSE,7.4,1.65,0,7.4,"fast food","Czyżyny","XIV",FALSE
+2026-03-09,"Monday",8,08:08:00,08:36:00,28,6.9,0,1.2,FALSE,9.44,1.8,0,9.44,"pharma","Prądnik Biały","IV",FALSE
+2026-03-09,"Monday",8,08:37:00,09:01:00,24,9.6,0,1.5,FALSE,13.44,1.8,0,13.44,"fast food","Prądnik Biały","IV",FALSE
+2026-03-09,"Monday",9,09:05:00,09:43:00,38,10.2,0,1.6,FALSE,15.31,1.81,0,15.31,"groceries","Prądnik Biały","IV",FALSE
+2026-03-09,"Monday",9,09:44:00,10:14:00,30,12,0,0.9,FALSE,12.06,1.81,0,12.06,"groceries","Krowodrza","V",FALSE
+2026-03-09,"Monday",10,10:15:00,10:45:00,30,12.7,0,1.7,FALSE,9.07,1.63,0,9.07,"groceries","Prądnik Biały","IV",FALSE
+2026-03-09,"Monday",10,10:46:00,11:07:00,21,13.7,0,2.7,FALSE,8.66,1.63,0,8.66,"fast food","Prądnik Biały","IV",FALSE
+2026-03-09,"Monday",17,17:09:00,17:34:00,25,14.7,0,1.1,FALSE,13.39,2.47,4.4,17.79,"groceries","Prądnik Biały","IV",FALSE
+2026-03-09,"Monday",17,17:35:00,17:51:00,16,13.9,0,0.5,FALSE,11,2.47,0,11,"fast food","Prądnik Biały","IV",FALSE
+2026-03-09,"Monday",17,17:51:00,18:19:00,28,12.3,0,1.2,FALSE,13.18,2.47,0,13.18,"vietnamese","Prądnik Czerwony","III",FALSE
+2026-03-09,"Monday",20,20:02:00,20:21:00,19,9.4,0,0.7,FALSE,10.94,2.22,0,10.94,"fast food","Prądnik Czerwony","III",FALSE
+2026-03-09,"Monday",20,20:21:00,20:40:00,19,8.6,0,0.5,FALSE,11.23,2.22,0,11.23,"fast food","Stare Miasto","I",FALSE
+2026-03-09,"Monday",20,20:40:00,20:52:00,12,8.1,0,1.1,FALSE,9,2.22,0,9,"fast food","Stare Miasto","I",FALSE
+2026-03-09,"Monday",20,20:52:00,21:14:00,22,8,0,0.5,FALSE,8.56,2.22,2.91,11.47,"fast food","Stare Miasto","I",FALSE
+2026-03-10,"Tuesday",18,18:59:00,19:17:00,18,12.1,0,2.4,FALSE,10.51,2.34,0,10.51,"pharma","Prądnik Biały","IV",FALSE
+2026-03-10,"Tuesday",19,19:22:00,19:51:00,29,11.8,0,2.3,FALSE,15.1,2.44,0,15.1,"japanese","Prądnik Biały","IV",FALSE
+2026-03-10,"Tuesday",19,19:55:00,20:09:00,14,11.4,0,1.7,FALSE,10.76,2.44,0,10.76,"fast food","Prądnik Biały","IV",FALSE
+2026-03-10,"Tuesday",20,20:13:00,20:44:00,31,11.1,0,1.2,FALSE,12.56,2.47,0,12.56,"groceries","Prądnik Czerwony","III",FALSE
+2026-03-10,"Tuesday",20,20:52:00,21:11:00,19,10.8,0,0.9,FALSE,11.06,2.47,0,11.06,"fast food","Prądnik Biały","IV",FALSE
+2026-03-11,"Wednesday",8,08:19:00,08:50:00,31,13.8,0,0.7,FALSE,12.35,1.63,5.25,17.6,"groceries","Czyżyny","XIV",FALSE
+2026-03-11,"Wednesday",8,08:50:00,09:25:00,35,15.4,0,0.8,FALSE,11.42,1.63,0,11.42,"groceries","Nowa Huta","XVIII",FALSE
+2026-03-11,"Wednesday",11,11:16:00,11:39:00,23,18.1,0,1.3,FALSE,8.76,1.79,0,8.76,"spanish","Grzegórzki","II",FALSE
+2026-03-11,"Wednesday",11,11:39:00,12:11:00,32,18.7,0,1.9,FALSE,7.4,0,0,7.4,"groceries","Grzegórzki","II",FALSE
+2026-03-12,"Thursday",8,08:01:00,08:33:00,32,9,0,0.7,FALSE,9.42,1.79,0,9.42,"fast food","Prądnik Czerwony","III",FALSE
+2026-03-12,"Thursday",8,08:37:00,08:54:00,17,10.6,0,0.3,FALSE,7.4,1.79,0,7.4,"fast food","Prądnik Czerwony","III",FALSE
+2026-03-12,"Thursday",8,08:54:00,09:24:00,30,11.9,0,0.6,FALSE,9.63,1.79,0,9.63,"fast food","Czyżyny","XIV",FALSE
+2026-03-12,"Thursday",18,18:57:00,19:34:00,37,11.4,0,1.7,FALSE,19.25,2.51,0,19.25,"japanese","Dębniki","VIII",FALSE
+2026-03-12,"Thursday",19,19:44:00,20:16:00,32,10.6,0,1.1,FALSE,13.94,2.4,0,13.94,"kebab","Podgórze Duchackie","XI",FALSE
+2026-03-12,"Thursday",20,20:29:00,20:50:00,21,9.5,0,0.7,FALSE,10.85,2.29,0,10.85,"vietnamese","Bieżanów - Prokocim","XII",FALSE
+2026-03-12,"Thursday",21,21:16:00,21:45:00,29,9,0,0.5,FALSE,12.27,1.97,0,12.27,"fast food","Stare Miasto","I",FALSE
+2026-03-12,"Thursday",21,21:45:00,22:18:00,33,8.9,0,0.2,FALSE,11.24,1.97,0,11.24,"ukrainian","Podgórze","XIII",FALSE
+2026-03-15,"Sunday",18,18:08:00,18:45:00,37,13.8,0,3.6,FALSE,12.6,2.24,0,12.6,"burgers","Prądnik Biały","IV",TRUE
+2026-03-15,"Sunday",18,18:45:00,19:13:00,28,13.7,0,3.6,FALSE,10.45,2.24,14.7,25.15,"italian","Prądnik Biały","IV",TRUE
+2026-03-15,"Sunday",19,19:13:00,19:46:00,33,13.1,0,1.6,FALSE,11.86,2.36,3.51,15.37,"fast food","Prądnik Czerwony","III",TRUE
+2026-03-15,"Sunday",19,19:47:00,20:18:00,31,12.2,0,2,FALSE,13.55,2.36,0,13.55,"groceries","Prądnik Czerwony","III",TRUE
+2026-03-15,"Sunday",20,20:28:00,20:55:00,27,11.4,0,1.7,FALSE,9.24,2.26,0,9.24,"fast food","Prądnik Czerwony","III",TRUE
+2026-03-16,"Monday",16,16:00:00,16:46:00,46,9.5,0,2.2,FALSE,9.33,2.28,0,9.33,"fast food","Prądnik Czerwony","III",FALSE
+2026-03-16,"Monday",16,16:13:00,16:25:00,12,9.5,0.03,1.3,TRUE,9.33,2.28,0,9.33,"fast food","Prądnik Czerwony","III",FALSE
+2026-03-16,"Monday",16,16:46:00,17:09:00,23,9,0.03,5.1,TRUE,11.81,2.28,0,11.81,"kebab","Prądnik Czerwony","III",FALSE
+2026-03-16,"Monday",17,17:09:00,17:31:00,22,8.7,0.03,2.4,TRUE,12.64,2.44,0,12.64,"fast food","Prądnik Czerwony","III",FALSE
+2026-03-16,"Monday",17,17:31:00,17:48:00,17,8.6,0.03,3.3,TRUE,9.78,2.44,0,9.78,"korean","Prądnik Czerwony","III",FALSE
+2026-03-16,"Monday",17,17:48:00,18:13:00,25,8.4,0.03,1.6,TRUE,13.45,2.44,0,13.45,"polish","Grzegórzki","II",FALSE
+2026-03-16,"Monday",18,18:13:00,18:25:00,12,8.1,0.03,2.1,TRUE,7.73,2.52,0,7.73,"groceries","Prądnik Czerwony","III",FALSE
+2026-03-16,"Monday",18,18:27:00,18:54:00,27,8.1,0.03,1.9,TRUE,15.08,2.67,2.84,17.92,"fast food","Prądnik Czerwony","III",FALSE
+2026-03-16,"Monday",18,18:54:00,19:24:00,30,7.8,0.03,1.7,TRUE,17.79,2.67,0,17.79,"groceries","Prądnik Biały","IV",FALSE
+2026-03-16,"Monday",19,19:24:00,19:52:00,28,7.7,0.03,1.9,TRUE,14.08,2.5,2.95,17.03,"japanese","Prądnik Biały","IV",FALSE
+2026-03-16,"Monday",19,19:56:00,20:18:00,22,7.4,0.03,1.5,TRUE,13.32,2.35,0,13.32,"groceries","Prądnik Biały","IV",FALSE
+2026-03-16,"Monday",20,20:19:00,20:51:00,32,7.4,0.03,0.2,TRUE,16.9,2.2,0,16.9,"groceries","Stare Miasto","I",FALSE
+2026-03-16,"Monday",20,20:51:00,21:21:00,30,6.9,0.03,1,TRUE,8.66,2.2,3.08,11.74,"fast food","Grzegórzki","II",FALSE
+2026-03-17,"Tuesday",13,13:00:00,13:26:00,26,8.3,0,1.2,FALSE,11.07,2.33,0,11.07,"groceries","Prądnik Biały","IV",FALSE
+2026-03-17,"Tuesday",13,13:26:00,13:37:00,11,8.4,0,1.8,FALSE,7.4,0,0,7.4,"kebab","Prądnik Biały","IV",FALSE
+2026-03-17,"Tuesday",13,13:37:00,13:53:00,16,8.3,0,2.7,FALSE,9.14,2.33,0,9.14,"pizza","Prądnik Biały","IV",FALSE
+2026-03-17,"Tuesday",13,13:53:00,14:15:00,22,8.3,0,3.4,FALSE,11.17,2.33,0,11.17,"liquors","Prądnik Czerwony","III",FALSE
+2026-03-17,"Tuesday",16,16:58:00,17:13:00,15,6.8,0.15,0.7,TRUE,11.09,2.63,0,11.09,"japanese","Stare Miasto","I",FALSE
+2026-03-17,"Tuesday",17,17:13:00,17:35:00,22,6.8,0.15,1.7,TRUE,10.29,2.48,5.14,15.43,"fast food","Zwierzyniec","VII",FALSE
+2026-03-17,"Tuesday",17,17:35:00,17:58:00,23,6.8,0.15,1.6,TRUE,10.72,2.48,0,10.72,"japanese","Zwierzyniec","VII",FALSE
+2026-03-17,"Tuesday",17,17:35:00,18:21:00,46,6.8,0.15,1.6,TRUE,10.73,2.48,0,10.73,"japanese","Bronowice","VI",FALSE
+2026-03-17,"Tuesday",18,18:23:00,18:57:00,34,6.8,0.15,1,TRUE,15.66,2.31,2.9,18.56,"deli","Prądnik Biały","IV",FALSE
+2026-03-17,"Tuesday",18,18:57:00,19:21:00,24,7,0.15,1.4,TRUE,9.87,2.31,0,9.87,"fast food","Prądnik Biały","IV",FALSE
+2026-03-17,"Tuesday",19,19:21:00,19:54:00,33,7.1,0.15,0.6,TRUE,14.85,2.41,0,14.85,"groceries","Stare Miasto","I",FALSE
+2026-03-17,"Tuesday",19,19:54:00,20:10:00,16,7,0.15,1.6,TRUE,8.09,2.41,0,8.09,"pizza","Stare Miasto","I",FALSE
+2026-04-21,"Tuesday",14,14:00:00,14:33:00,33,11,0,2.5,FALSE,9.54,2.04,0,9.54,"vietnamese","Krowodrza","V",FALSE
+2026-04-21,"Tuesday",14,14:33:00,15:02:00,29,11.8,0,3.2,FALSE,12.95,2.04,0,12.95,"groceries","Stare Miasto","I",FALSE
+2026-04-21,"Tuesday",16,16:00:00,16:18:00,18,11.5,0,1.1,FALSE,7.82,2.28,2.1,9.92,"kebab","Prądnik Biały","IV",FALSE
+2026-04-21,"Tuesday",16,16:20:00,16:38:00,18,11.2,0,2.8,FALSE,11.43,2.34,0,11.43,"fast food","Prądnik Biały","IV",FALSE
+2026-04-21,"Tuesday",16,16:39:00,17:03:00,24,11,0,2.1,FALSE,9.99,2.34,0,9.99,"groceries","Prądnik Biały","IV",FALSE
+2026-04-21,"Tuesday",17,17:03:00,17:29:00,26,10.8,0,2,FALSE,11.52,2.28,6.64,18.16,"pizza","Prądnik Czerwony","III",FALSE
+2026-04-21,"Tuesday",17,17:30:00,18:07:00,37,10.7,0,1.1,FALSE,11.46,2.28,0,11.46,"groceries","Mistrzejowice","XV",FALSE
+2026-04-21,"Tuesday",18,18:07:00,18:24:00,17,10.2,0,1.3,FALSE,9.57,2.26,0,9.57,"kebab","Bieńczyce","XVI",FALSE
+2026-04-21,"Tuesday",18,18:24:00,18:58:00,34,10,0,1.2,FALSE,14.68,2.26,0,14.68,"fast food","Mistrzejowice","XV",FALSE
+2026-04-21,"Tuesday",19,19:09:00,19:32:00,23,9.3,0,0.7,FALSE,7.41,2.32,0,7.41,"pizza","Mistrzejowice","XV",FALSE
+2026-04-21,"Tuesday",19,19:32:00,20:02:00,30,9.9,0,1,FALSE,11.53,2.32,0,11.53,"japanese","Mistrzejowice","XV",FALSE
+2026-04-22,"Wednesday",8,08:00:00,08:30:00,30,11.2,0,2,FALSE,11.5,1.76,0,11.5,"groceries","Krowodrza","V",FALSE
+2026-04-22,"Wednesday",8,08:19:00,08:39:00,20,11.3,0,2.8,FALSE,12.97,1.76,0,12.97,"groceries","Stare Miasto","I",FALSE
+2026-04-22,"Wednesday",8,08:39:00,09:21:00,42,12.1,0,3.7,FALSE,10.89,1.76,0,10.89,"groceries","Stare Miasto","I",FALSE
+2026-04-22,"Wednesday",9,09:22:00,09:56:00,34,12.3,0,5.2,FALSE,7.4,1.76,0,7.4,"fast food","Stare Miasto","I",FALSE
+2026-04-22,"Wednesday",9,09:56:00,10:36:00,40,12.6,0,3.4,FALSE,7.4,1.76,0,7.4,"fast food","Krowodrza","V",FALSE
+2026-04-22,"Wednesday",15,15:15:00,15:48:00,33,14.7,0,2.3,FALSE,15.5,2.36,0,15.5,"polish","Grzegórzki","II",FALSE
+2026-04-22,"Wednesday",15,15:48:00,16:20:00,32,14.6,0,2.1,FALSE,12.84,2.36,0,12.84,"groceries","Podgórze","XIII",FALSE
+2026-04-22,"Wednesday",16,16:58:00,17:32:00,34,13.4,0,4.4,FALSE,7.4,2.3,0,7.4,"fast food","Stare Miasto","I",FALSE
+2026-04-22,"Wednesday",17,17:35:00,18:05:00,30,12.5,0,1.8,FALSE,10.92,2.34,0,10.92,"fast food","Krowodrza","V",FALSE
+2026-04-22,"Wednesday",18,18:10:00,18:30:00,20,11.7,0,2.3,FALSE,8.56,2.44,0,8.56,"korean","Krowodrza","V",FALSE
+2026-04-22,"Wednesday",18,18:35:00,18:46:00,11,10.7,0,2,FALSE,7.4,2.44,0,7.4,"pizza","Stare Miasto","I",FALSE
+2026-04-22,"Wednesday",18,18:46:00,19:21:00,35,10.5,0,1.7,FALSE,14.66,2.44,0,14.66,"coffee","Krowodrza","V",FALSE
+2026-04-22,"Wednesday",19,19:23:00,19:45:00,22,10.1,0,1.9,FALSE,8.36,2.46,0,8.36,"korean","Krowodrza","V",FALSE
+2026-04-22,"Wednesday",19,19:49:00,20:24:00,35,9.7,0,1.5,FALSE,15.51,2.46,0,15.51,"groceries","Bronowice","VI",FALSE
+2026-04-23,"Thursday",8,08:00:00,08:42:00,42,13,0,3.9,FALSE,14.38,1.94,4.31,18.69,"fast food","Krowodrza","V",FALSE
+2026-04-23,"Thursday",8,08:42:00,09:08:00,26,14.1,0,3,FALSE,9.8,1.94,2.21,12.01,"bakery","Grzegórzki","II",FALSE
+2026-04-23,"Thursday",9,09:11:00,09:38:00,27,14.8,0,5.4,FALSE,8.04,1.78,3.74,11.78,"groceries","Grzegórzki","II",FALSE
+2026-04-23,"Thursday",9,09:38:00,10:09:00,31,15.2,0,6.6,FALSE,8.77,1.78,0,8.77,"coffee","Grzegórzki","II",FALSE
+2026-04-23,"Thursday",9,09:50:00,10:27:00,37,15.4,0,4.1,FALSE,8.28,1.78,0,8.28,"coffee","Prądnik Czerwony","III",FALSE
+2026-04-23,"Thursday",10,10:27:00,10:43:00,16,15.9,0,4.6,FALSE,7.4,1.78,9.23,16.63,"groceries","Czyżyny","XIV",FALSE
+2026-04-23,"Thursday",10,10:43:00,11:12:00,29,16.1,0,7.5,FALSE,9.65,1.78,0,9.65,"kebab","Czyżyny","XIV",FALSE
+2026-04-24,"Friday",15,15:01:00,15:32:00,31,15.9,0,2.3,FALSE,10.59,2.38,0,10.59,"fast food","Prądnik Czerwony","III",FALSE
+2026-04-24,"Friday",15,15:33:00,16:07:00,34,15.8,0,3,FALSE,14.19,2.38,0,14.19,"groceries","Nowa Huta","XVIII",FALSE
+2026-04-24,"Friday",16,16:13:00,16:36:00,23,15.9,0,3.1,FALSE,8.38,2.4,0,8.38,"vietnamese","Mistrzejowice","XV",FALSE
+2026-04-24,"Friday",16,16:36:00,17:00:00,24,15.8,0,1.9,FALSE,9.69,2.4,0,9.69,"pizza","Bieńczyce","XVI",FALSE
+2026-04-24,"Friday",18,18:07:00,18:36:00,29,14.2,0,0.3,FALSE,13.18,2.56,0,13.18,"fast food","Grzegórzki","II",FALSE
+2026-04-24,"Friday",18,18:47:00,19:25:00,38,13.3,0,0.3,FALSE,15.52,2.56,0,15.52,"fast food","Zwierzyniec","VII",FALSE
+2026-04-24,"Friday",19,19:40:00,20:01:00,21,11.9,0,0.7,FALSE,10.5,2.56,0,10.5,"pizza","Zwierzyniec","VII",FALSE
+2026-04-24,"Friday",20,20:19:00,20:42:00,23,11,0,0.7,FALSE,9.43,2.4,1.65,11.08,"polish","Stare Miasto","I",FALSE
+2026-04-24,"Friday",20,20:42:00,21:37:00,55,10.9,0,1.1,FALSE,8.71,2.4,0,8.71,"fast food","Stare Miasto","I",FALSE
+2026-04-26,"Sunday",19,19:05:00,19:35:00,30,8.7,0,2,FALSE,9,2.26,21.71,30.71,"groceries","Prądnik Biały","IV",TRUE
+2026-04-26,"Sunday",19,19:35:00,19:50:00,15,8,0,1.1,FALSE,7.4,2.26,0,7.4,"fast food","Prądnik Biały","IV",TRUE
+2026-04-26,"Sunday",19,19:53:00,20:21:00,28,7.4,0,1,FALSE,13.81,2.26,0,13.81,"groceries","Prądnik Biały","IV",TRUE
+2026-04-26,"Sunday",20,20:21:00,20:52:00,31,7,0,0.9,FALSE,8.69,2.24,7.6,16.29,"fast food","Prądnik Biały","IV",TRUE
+2026-04-26,"Sunday",20,20:52:00,21:12:00,20,5.9,0,0.6,FALSE,10.21,0,0,10.21,"groceries","Bronowice","VI",TRUE
+2026-04-26,"Sunday",21,21:25:00,21:59:00,34,5.7,0,1.2,FALSE,12.79,2.06,0,12.79,"japanese","Zwierzyniec","VII",TRUE
+2026-04-27,"Monday",9,09:59:00,10:38:00,39,13,0,3.3,FALSE,13.93,1.96,0,13.93,"groceries","Stare Miasto","I",FALSE
+2026-04-27,"Monday",10,10:58:00,11:17:00,19,13.7,0,4.5,FALSE,7.73,1.76,5.54,13.27,"fast food","Zwierzyniec","VII",FALSE
+2026-04-27,"Monday",11,11:26:00,11:49:00,23,14.2,0,3.8,FALSE,10.45,1.94,0,10.45,"pharma","Stare Miasto","I",FALSE
+2026-04-27,"Monday",11,11:49:00,12:21:00,32,13.9,0,3,FALSE,11.81,1.94,0,11.81,"fast food","Zwierzyniec","VII",FALSE
+2026-04-27,"Monday",12,12:39:00,13:08:00,29,14.8,0,4.8,FALSE,13.04,2.18,0,13.04,"fast food","Prądnik Biały","IV",FALSE
+2026-04-27,"Monday",16,16:00:00,16:34:00,34,15.6,0,1.7,FALSE,15.01,2.32,0,15.01,"polish","Grzegórzki","II",FALSE
+2026-04-27,"Monday",16,16:36:00,17:07:00,31,14.8,0,2.8,FALSE,10.52,2.32,0,10.52,"groceries","Czyżyny","XIV",FALSE
+2026-04-27,"Monday",17,17:24:00,17:58:00,34,14,0,2.1,FALSE,12.83,2.42,0,12.83,"groceries","Czyżyny","XIV",FALSE
+2026-04-27,"Monday",17,17:58:00,18:28:00,30,12.6,0,2.3,FALSE,10.71,2.42,0,10.71,"pizza","Czyżyny","XIV",FALSE
+2026-04-27,"Monday",18,18:28:00,18:52:00,24,12,0,1.9,FALSE,12.41,2.38,0,12.41,"pizza","Mistrzejowice","XV",FALSE
+2026-04-27,"Monday",18,18:55:00,19:07:00,12,11.4,0,1.9,FALSE,7.4,2.38,0,7.4,"liquors","Mistrzejowice","XV",FALSE
+2026-04-28,"Tuesday",8,08:04:00,08:31:00,27,7.7,0,2.6,FALSE,9.87,1.76,3.69,13.56,"coffee","Stare Miasto","I",FALSE
+2026-04-28,"Tuesday",8,08:31:00,08:40:00,9,8.7,0,3.9,FALSE,7.4,0,0,7.4,"fast food","Stare Miasto","I",FALSE
+2026-04-28,"Tuesday",8,08:40:00,09:11:00,31,8.7,0,1.3,FALSE,11.63,1.76,0,11.63,"coffee","Podgórze","XIII",FALSE
+2026-04-28,"Tuesday",9,09:18:00,09:40:00,22,8.8,0,2.5,FALSE,7.4,1.76,0,7.4,"bakery","Podgórze","XIII",FALSE
+2026-04-28,"Tuesday",9,09:50:00,10:33:00,43,9.3,0,3.3,FALSE,10.21,1.76,0,10.21,"groceries","Łagiewniki - Borek Fałęcki","IX",FALSE
+2026-04-28,"Tuesday",10,10:40:00,11:09:00,29,10.4,0,1.1,FALSE,7.4,1.76,6.26,13.66,"groceries","Podgórze","XIII",FALSE
+2026-04-28,"Tuesday",14,14:01:00,14:35:00,34,12.6,0,1.4,FALSE,10.82,2.04,0,10.82,"fast food","Stare Miasto","I",FALSE
+2026-04-28,"Tuesday",14,14:35:00,15:03:00,28,12,0,3.2,FALSE,11.1,2.04,0,11.1,"burgers","Zwierzyniec","VII",FALSE
+2026-04-28,"Tuesday",15,15:03:00,15:41:00,38,12,0,1.2,FALSE,10.39,2.28,0,10.39,"japanese","Prądnik Biały","IV",FALSE
+2026-04-28,"Tuesday",15,15:41:00,16:20:00,39,11.8,0,3.5,FALSE,18.03,2.28,0,18.03,"groceries","Zwierzyniec","VII",FALSE
+2026-04-28,"Tuesday",20,20:03:00,20:45:00,42,8,0,2.1,FALSE,12.29,2.38,0,12.29,"groceries","Stare Miasto","I",FALSE
+2026-04-28,"Tuesday",20,20:46:00,21:12:00,26,7.2,0,1.6,FALSE,12.75,2.38,3.16,15.91,"fast food","Zwierzyniec","VII",FALSE
+2026-04-29,"Wednesday",8,08:11:00,08:57:00,46,7.8,0,1.7,FALSE,13.12,1.76,0,13.12,"fast food","Grzegórzki","II",FALSE
+2026-04-29,"Wednesday",8,08:57:00,09:32:00,35,8.7,0,1.7,FALSE,6.78,1.76,0,6.78,"breakfast","Stare Miasto","I",FALSE
+2026-04-29,"Wednesday",8,08:57:00,09:19:00,22,8.7,0,1.7,FALSE,6.78,1.76,0,6.78,"breakfast","Stare Miasto","I",FALSE
+2026-04-29,"Wednesday",9,09:32:00,10:03:00,31,9,0,3.1,FALSE,8.41,1.76,0,8.41,"bakery","Stare Miasto","I",FALSE
+2026-04-29,"Wednesday",10,10:03:00,10:43:00,40,9.9,0,1.5,FALSE,10.39,1.76,0,10.39,"coffee","Grzegórzki","II",FALSE
+2026-04-29,"Wednesday",10,10:43:00,11:17:00,34,10.8,0,1.7,FALSE,8.07,1.76,0,8.07,"fast food","Podgórze","XIII",FALSE
+2026-04-29,"Wednesday",12,12:59:00,13:24:00,25,11.8,0,1.8,FALSE,11.17,2.32,0,11.17,"fast food","Prądnik Czerwony","III",FALSE
+2026-04-29,"Wednesday",13,13:24:00,13:48:00,24,12,0,3.6,FALSE,11.78,2.34,0,11.78,"fast food","Prądnik Czerwony","III",FALSE
+2026-04-29,"Wednesday",13,13:49:00,14:15:00,26,11.4,0,3.5,FALSE,12.52,2.34,0,12.52,"korean","Czyżyny","XIV",FALSE
